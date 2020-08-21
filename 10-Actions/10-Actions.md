@@ -50,7 +50,7 @@ Yes, you can delete the default action `Action`.
 
 </details><br/>
 
-**50. Import a new action from the other script. Create a new Web HTTP/HTML script, if you do not have one. **
+**50. Import a new action from the other script. Create a new Web HTTP/HTML script, if you do not have one.**
 <details>
 <summary>Click here to view the hint/answer</summary>
 <br/>
