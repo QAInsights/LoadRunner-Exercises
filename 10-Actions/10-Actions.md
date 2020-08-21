@@ -16,7 +16,7 @@ By default, Web HTTP/HTML script will have three actions: vuser_init, Action, an
 <details><summary>Click here to view the hint/answer</summary>
 <br/>
 <p>
-Right click on `Actions` in the `Solution Explorer`, click on `Create new Action` and enter `myFirstAction`, and then click on OK.
+Right click on `Actions` in the `Solution Explorer`, click on `Create new Action` and enter `myFirstAction`, and then click on `OK`.
 
 </p>
 </details><br/>
