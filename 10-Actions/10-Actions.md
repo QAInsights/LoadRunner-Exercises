@@ -49,3 +49,50 @@ Yes, you can delete the default action `Action`.
 ![Record](/10-Actions/assets/40.jpg)
 
 </details><br/>
+
+**50. Import a new action from the other script. Create a new Web HTTP/HTML script, if you do not have one. **
+<details>
+<summary>Click here to view the hint/answer</summary>
+<br/>
+<p>
+Right click on the `Actions` in `Solution Explorer` and then click on `Import Action` to follow the prompts.
+</p>
+
+![Record](/10-Actions/assets/50.jpg)
+
+</details><br/>
+
+**60. What will happen if you rearrange the Actions by drag-and-drop?**
+<details>
+<summary>Click here to view the hint/answer</summary>
+<br/>
+<p>
+Moving actions within the Solution Explorer does not affect the run order. To reorder the actions during runtime, select `Runtime Settings > General > Run Logic`.
+</p>
+
+![Record](/10-Actions/assets/60.jpg)
+
+</details><br/>
+
+**70. Try moving vuser_init or vuser_end up/down.**
+<details>
+<summary>Click here to view the hint/answer</summary>
+<br/>
+<p>
+It is not possible to move up/down for the actions: vuser_init and vuser_end.
+</p>
+
+</details><br/>
+
+**80. How to share your Actions to your teammates?.**
+<details>
+<summary>Click here to view the hint/answer</summary>
+<br/>
+<p>
+Navigate to the script folder location and zip  the desired actions and share it.
+
+![Record](/10-Actions/assets/80.jpg)
+
+</p>
+
+</details><br/>
