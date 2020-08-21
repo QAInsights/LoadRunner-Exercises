@@ -1,0 +1,65 @@
+[General]
+Type=Multi
+DefaultCfg=default.cfg
+ParameterFile=
+GlobalParameterFile=
+NewFunctionHeader=1
+RunType=cci
+ActionLogicExt=action_logic
+LastActiveAction=Action
+MajorVersion=2020
+MinorVersion=0
+ActiveTypes=QTWeb
+GenerateTypes=QTWeb
+AdditionalTypes=QTWeb
+DevelopTool=Vugen
+LastModifyVer=2020.0.0.0
+DFERebrandFlag=Done
+ParamLeftBrace={
+ParamRightBrace=}
+ScriptLanguage=C
+LastCodeGenerationVer=2020.0.0.0
+DisableRegenerate=0
+Encoding=ANSI
+Description=
+ScriptLocale=en-US
+[Actions]
+vuser_init=vuser_init.c
+Blazedemo=Blazedemo.c
+vuser_end=vuser_end.c
+[RunLogicFiles]
+Default Profile=default.usp
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[ExtraFiles]
+globals.h=
+[Modified Actions]
+vuser_init=0
+Blazedemo=1
+vuser_end=0
+[Recorded Actions]
+vuser_init=0
+Blazedemo=1
+vuser_end=0
+[Replayed Actions]
+vuser_init=0
+Blazedemo=0
+vuser_end=0
+[Interpreters]
+vuser_init=cci
+Blazedemo=cci
+vuser_end=cci
+[TransactionsOrder]
+Order="T00_Launch__*delimiter*__T10_FindFlights__*delimiter*__T20_ChooseThisFlight__*delimiter*__T30_BookFlight"
+[StateManagement]
+LastReplayStatus=0
+[ActiveReplay]
+LastReplayedRunName=
+ActiveRunName=
+[Transactions]
+T00_Launch=
+T10_FindFlights=
+T20_ChooseThisFlight=
+T30_BookFlight=
