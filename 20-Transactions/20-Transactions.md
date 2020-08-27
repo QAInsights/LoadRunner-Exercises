@@ -111,6 +111,24 @@ Use lr_set_transaction() function as shown below.
 ```
 </p>
 
-
-
 </details><br/>
+
+**50. How to create sub transactions?**
+<details><summary>Click here to view the hint/answer</summary>
+<br/>
+<p>
+By using lr_start_sub_transaction() and lr_end_sub_transaction() functions inside the transactions. E.g.
+
+```
+lr_start_transaction("BookFlight");
+
+	lr_start_sub_transaction("BookFlight","SearchFlight");
+		...
+		...
+	lr_end_sub_transaction("SearchFlight", LR_AUTO);
+
+lr_end_sub_transaction("BookFlight", LR_AUTO);
+
+```
+</p>
+</details>
