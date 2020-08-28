@@ -38,3 +38,23 @@ Open the desired script, press <kbd>Ctrl+Shift+R</kbd>, click on <b>Options</b>,
 ![Exclude Headers](./assets/30.jpg)
 
 </details><br/>
+
+**40. How to convert your HTML based script to URL-based script?**
+<details><summary>Click here to view the hint/answer</summary>
+<br/>
+<p>
+Open the desired script, press <kbd>Ctrl+Shift+R</kbd>, click on <b>Recording</b>, under <b>General</b>, click on<b>URL-based script</b>, and then click on OK twice.
+</p>
+
+</details><br/>
+
+**50. How to apply custom rules to your script while regenerating?**
+<details><summary>Click here to view the hint/answer</summary>
+<br/>
+<p>
+Open the desired script, press <kbd>Ctrl+Shift+R</kbd>, click on <b>Rules</b>, under <b>Correlations</b>, check the desired rules, and then click on OK.
+</p>
+
+![Apply Rules](./assets/50.jpg)
+
+</details><br/>
