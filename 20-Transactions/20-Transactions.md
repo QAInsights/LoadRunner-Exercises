@@ -34,7 +34,8 @@ Select the steps in the desired action, right click > `Surround with Transaction
 ![Record](/20-Transactions/assets/10.jpg)
 
 </p>
-</details><br/>
+</details>
+<br/>
 
 **20. How to intentioanlly fail a transaction?**
 
