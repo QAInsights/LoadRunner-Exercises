@@ -17,3 +17,4 @@
 |   [Regenerate Script](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/30-Regenerate-Script/30-Regenerate.md)        |   
 |   [Data Parameterization](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/40-Data-Parameterization/40-Data-Parameterization.md)        |
 |   [Pacing](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/50-Pacing/50-Pacing.md)        |   
+|   [Think Time](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/60-ThinkTime/60-ThinkTime.md)        |   
