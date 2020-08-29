@@ -56,7 +56,7 @@ Go to Replay > Runtime Settings > General > Log, select `Extended Log` as shown 
 <details><summary>Click here to view the hint/answer</summary>
 <br/>
 <p>
-True. Logging conserve resources, once you gain the confidence of the scripts, it is best to turn off the logs.
+TRUE. Logging conserve resources, once you gain the confidence of the scripts, it is best to turn off the logs.
 </p>
 
 </details><br/> 
