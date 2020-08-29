@@ -15,3 +15,4 @@
 |   [Actions](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/10-Actions/10-Actions.md)                               |
 |   [Transactions](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/20-Transactions/20-Transactions.md)                |   
 |   [Regenerate Script](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/30-Regenerate-Script/30-Regenerate.md)        |   
+|   [Data Parameterization Script](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/40-Data-Parameterization/40-Data-Parameterization.md)        |   
