@@ -21,3 +21,4 @@
 |   [Pacing](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/50-Pacing/50-Pacing.md)        |   
 |   [Think Time](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/60-ThinkTime/60-ThinkTime.md)        |
 |   [Logging](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/70-Logging/70-Logging.md)        |
+|   [Additional Attributes](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/80-AdditionalAttributes/80-AdditionalAttributes.md)        |
