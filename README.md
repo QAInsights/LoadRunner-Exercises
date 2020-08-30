@@ -11,13 +11,16 @@
 
 > Currently under active development.
 
-## 🛠 Enviroment Setup
+# 🛠 Enviroment Setup
 
 Below exercises were created using the following configurations:
 
 - Micro Focus LoadRunner Professional - Virtual User Generator Version 2020 Build 610
-- OS: Windows 10 Pro 10.0.19041 Build 19041
+- **Protocol**: Web HTTP/HTML
+- **Language**: C
+- **OS**: Windows 10 Pro 10.0.19041 Build 19041
 - CPU 2 Cores, 4 Logical Processors and Intel Core i7-7500U CPU @ 2.70GHz
+
 
 |   Component   |   Version |
 |   ---------   |   ------- |
@@ -33,7 +36,8 @@ Below exercises were created using the following configurations:
 |   User Site Server    |   2020.0.0.0  |
 |   Vuser Generator |   2020.0.0.0  |
 
-## 🏑 Exercises
+  
+# 🏑 Exercises
 
 |   **#**       |   **Exercise Navigation**    |
 |   -----       |   -----------------------    |
