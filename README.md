@@ -35,18 +35,18 @@ Below exercises were created using the following configurations:
 
 ## 🏑 Exercises
 
-|   **Exercise Navigation**    |
-|   -----------------------    |
-|   [Record and Replay](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/00-Recording-Replay/00-Recording-Replay.md)   |
-|   [Actions](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/10-Actions/10-Actions.md)                               |
-|   [Transactions](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/20-Transactions/20-Transactions.md)                |   
-|   [Regenerate Script](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/30-Regenerate-Script/30-Regenerate.md)        |   
-|   [Data Parameterization](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/40-Data-Parameterization/40-Data-Parameterization.md)        |
-|   [Pacing](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/50-Pacing/50-Pacing.md)        |   
-|   [Think Time](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/60-ThinkTime/60-ThinkTime.md)        |
-|   [Logging](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/70-Logging/70-Logging.md)        |
-|   [Additional Attributes](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/80-AdditionalAttributes/80-AdditionalAttributes.md)        |
-|   [Auto Correlation](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/90-AutoCorrelation/90-AutoCorrelation.md)        |
+|   **#**       |   **Exercise Navigation**    |
+|   -----       |   -----------------------    |
+|   00          |   [Record and Replay](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/00-Recording-Replay/00-Recording-Replay.md)   |
+|   10          |   [Actions](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/10-Actions/10-Actions.md)                               |
+|   20          |   [Transactions](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/20-Transactions/20-Transactions.md)                |   
+|   30          |   [Regenerate Script](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/30-Regenerate-Script/30-Regenerate.md)        |   
+|   40          |   [Data Parameterization](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/40-Data-Parameterization/40-Data-Parameterization.md)        |
+|   50          |   [Pacing](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/50-Pacing/50-Pacing.md)        |   
+|   60          |   [Think Time](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/60-ThinkTime/60-ThinkTime.md)        |
+|   70          |   [Logging](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/70-Logging/70-Logging.md)        |
+|   80          |   [Additional Attributes](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/80-AdditionalAttributes/80-AdditionalAttributes.md)        |
+|   90          |   [Auto Correlation](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/90-AutoCorrelation/90-AutoCorrelation.md)        |
 
 ## 💰 Donate
 ☕ <a target="_blank" href="https://www.buymeacoffee.com/qainsights">Buy me a tea</a>
