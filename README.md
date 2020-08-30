@@ -46,3 +46,6 @@ Below exercises were created using the following configurations:
 |   [Think Time](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/60-ThinkTime/60-ThinkTime.md)        |
 |   [Logging](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/70-Logging/70-Logging.md)        |
 |   [Additional Attributes](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/80-AdditionalAttributes/80-AdditionalAttributes.md)        |
+
+## 💰 Donate
+☕ <a target="_blank" href="https://www.buymeacoffee.com/qainsights">Buy me a tea</a>
