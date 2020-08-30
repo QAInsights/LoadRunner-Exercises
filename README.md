@@ -11,6 +11,30 @@
 
 > Currently under active development.
 
+## 🛠 Enviroment Setup
+
+Below exercises were created using the following configurations:
+
+- Micro Focus LoadRunner Professional - Virtual User Generator Version 2020 Build 610
+- OS: Windows 10 Pro 10.0.19041 Build 19041
+- CPU 2 Cores, 4 Logical Processors and Intel Core i7-7500U CPU @ 2.70GHz
+
+|   Component   |   Version |
+|   ---------   |   ------- |
+|   Analysis    |   2020.0.0.0  |
+|   Controller  |   2020.0.0.0  |
+|   Load Generator  |   2020.0.0.0  |
+|   MI Listener Component   |   2020.0.0.0  |
+|   Monitors over FireWall  |   2020.0.0.0  |
+|   Online Documentation    |   2020.0.0.0  |
+|   Protocol SDK    |   2020.0.0.0  |
+|   Remote Management Agent |   2020.0.0.0  |
+|   Samples |   2020.0.0.0  |
+|   User Site Server    |   2020.0.0.0  |
+|   Vuser Generator |   2020.0.0.0  |
+
+## 🏑 Exercises
+
 |   **Exercise Navigation**    |
 |   -----------------------    |
 |   [Record and Replay](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/00-Recording-Replay/00-Recording-Replay.md)   |
