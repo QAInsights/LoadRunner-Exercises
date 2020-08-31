@@ -51,7 +51,7 @@ Below exercises were created using the following configurations:
 |   70          |   [Logging](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/70-Logging/70-Logging.md)        |
 |   80          |   [Additional Attributes](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/80-AdditionalAttributes/80-AdditionalAttributes.md)        |
 |   90          |   [Auto Correlation](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/90-AutoCorrelation/90-AutoCorrelation.md)        |
-|   100          |   [Manual Correlation](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/100-ManualCorrelation/100-ManualCorrelation.md)        |
+|   100          |  [Manual Correlation](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/100-ManualCorrelation/100-ManualCorrelation.md)        |
 
 ## 💰 Donate
 ☕ <a target="_blank" href="https://www.buymeacoffee.com/qainsights">Buy me a tea</a>
