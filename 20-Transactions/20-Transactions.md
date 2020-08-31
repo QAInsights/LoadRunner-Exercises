@@ -37,7 +37,7 @@ Select the steps in the desired action, right click > `Surround with Transaction
 </details>
 <br/>
 
-**20. How to intentioanlly fail a transaction?**
+**20. How to intentionally fail a transaction?**
 
 <details><summary>Click here to view the hint/answer</summary>
 <br/>

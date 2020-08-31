@@ -1,6 +1,6 @@
 # Manual Correlation
 
-There are multiple ways to manually correlate dynamic values. You can follow your convenient method to correlate for below exercices.  
+There are multiple ways to manually correlate dynamic values. You can follow your convenient method to correlate for below exercises.  
 Please record the Pet Store business transactions mentioned in [this exercise](https://github.com/QAInsights/LoadRunner-Exercises/blob/master/90-AutoCorrelation/90-AutoCorrelation.md).
 
 **00. How to manually correlate `jsessionid` in Pet Store script?**
